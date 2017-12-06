@@ -6,6 +6,8 @@
 public class TheRiddler {
 
 	public static void main(String[] args) {
+		int score = 0;
+		String answer = 
 
 		// 1. Make a variable to hold the score
 
